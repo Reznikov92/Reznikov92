@@ -4,7 +4,7 @@
 
 ### 💻 Frontend Developer | JavaScript | TypeScript | React
 
-- 🔭 Работаю над проектами на **React** и **TypeScript** (CRM-системы, адаптивные веб-приложения)
+- 🔭 Создаю веб-приложения и интерфейсы на стеке **JavaScript**, **TypeScript**, **React**, **HTML5**, **CSS3** и **SCSS**
 - 🌱 Сейчас углубляю знания в архитектуре фронтенда и подготовке к коммерческой разработке
 - 📫 Связаться со мной: [Telegram](https://t.me/nikolajreznikov) | [GitHub](https://github.com/Reznikov92)
 
