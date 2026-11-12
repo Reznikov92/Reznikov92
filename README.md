@@ -15,7 +15,7 @@
   <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45" />
   <img src="https://githubusercontent.com" alt="React" width="45" height="45" />
   <img src="https://githubusercontent.com" alt="Vite" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" />
+  <img src="(https://cdn.skillbox.pro/landgen/47010/HTML.svg)" alt="HTML5" width="45" height="45" />
   <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" />
   <img src="https://githubusercontent.com" alt="Sass / SCSS" width="45" height="45" />
   <img src="https://githubusercontent.com" alt="Git" width="45" height="45" />
