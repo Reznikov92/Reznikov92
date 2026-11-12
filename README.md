@@ -1,17 +1,21 @@
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+# 👋 Привет! Я Николай Резников — Frontend Developer
 
-### 💻 Frontend Developer | JavaScript | TypeScript | React
+### 💻 JavaScript | TypeScript | React | HTML5 | CSS3 | SCSS
 
-- 🔭 Создаю веб-приложения и интерфейсы на стеке **JavaScript**, **TypeScript**, **React**, **HTML5**, **CSS3** и **SCSS**
+- 🔭 Разрабатываю современные веб-приложения на **React**, **TypeScript** и **JavaScript (ES6+)**, создаю адаптивную и кроссбраузерную верстку (**HTML5**, **CSS3**, **SCSS**)
 - 🌱 Сейчас углубляю знания в архитектуре фронтенда и подготовке к коммерческой разработке
-- 📫 Связаться со мной: [Telegram](https://t.me/nikolajreznikov) | [GitHub](https://github.com/Reznikov92)
+- 📫 Связаться со мной: [Telegram](https://t.me) | [GitHub](https://github.com)
+
+---
 
 ### 🧰 Мой стек технологий
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![Vite](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![SASS](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
