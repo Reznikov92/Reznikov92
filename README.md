@@ -4,7 +4,7 @@
 
 - 🔭 Разрабатываю современные веб-приложения на **React**, **TypeScript** и **JavaScript (ES6+)**, создаю адаптивную и кроссбраузерную верстку (**HTML5**, **CSS3**, **SCSS**)
 - 🌱 Сейчас углубляю знания в архитектуре фронтенда и подготовке к коммерческой разработке
-- 📫 Связаться со мной: [Telegram](https://t.me/nikolajreznikov) | [GitHub](https://github.com)
+- 📫 Связаться со мной: [Telegram](https://t.me/nikolajreznikov) | [GitHub](https://github.com/Reznikov92)
 
 ---
 
