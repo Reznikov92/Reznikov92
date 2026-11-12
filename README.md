@@ -10,12 +10,14 @@
 
 ### 🧰 Мой стек технологий
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Vite](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SASS](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="React" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Vite" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Sass / SCSS" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="Git" width="45" height="45" />
+  <img src="https://githubusercontent.com" alt="VS Code" width="45" height="45" />
+</p>
