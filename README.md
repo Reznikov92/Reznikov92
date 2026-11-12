@@ -11,13 +11,10 @@
 ### 🧰 Мой стек технологий
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="JavaScript" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="TypeScript" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="React" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Vite" width="45" height="45" />
-  <img src="(https://cdn.skillbox.pro)" alt="HTML5" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Sass / SCSS" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="Git" width="45" height="45" />
-  <img src="https://githubusercontent.com" alt="VS Code" width="45" height="45" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass" />
 </p>
